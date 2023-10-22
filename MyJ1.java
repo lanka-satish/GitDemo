@@ -11,3 +11,9 @@ System.out.println("");
 
 }
 }
+
+
+public static vid main(String args[])
+{
+}
+
